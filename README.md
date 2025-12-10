@@ -1,0 +1,2 @@
+# Minooncoin
+Minooncoin
